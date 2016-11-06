@@ -1,3 +1,7 @@
+sudo apt-get update
+sudo apt-get install git
+
+
 1 шаг: открываем терминал и устанавливаем первоначальные конфигурации
 
 git config --global user.name 'имя_пользователя_github'
